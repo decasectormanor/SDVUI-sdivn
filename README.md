@@ -1,2 +1,0 @@
-# SDVUI-sdivn
-Batch created
